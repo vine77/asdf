@@ -1,0 +1,7 @@
+{
+  "name": "@vine77/asdf",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  }
+}
